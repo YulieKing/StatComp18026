@@ -1,0 +1,15 @@
+Package: StatComp18026
+Type: Package
+Title: Example functions for 'Statistical Computing' course
+Version: 1.0
+Date: 2019-01-02
+Author: Tao Xu
+Maintainer: Tao Xu <xu0130@mail.ustc.edu.cn>
+Description: Several R and Rcpp function are included in this package for illustration. 
+License: GPL (>= 2)
+Imports: nloptr, microbenchmark, knitr, rmarkdown, lpSolve,bootstrap,DAAG,boxplotdbl,Ball,energy,RANN,MASS,VGAM,boot,lattice
+RoxygenNote: 6.1.1
+VignetteBuilder: knitr
+URL: http://github.com/YulieKing/StatComp18026
+BugReports: http://github.com/YulieKing/StatComp18026/issues
+Encoding: UTF-8
